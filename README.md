@@ -93,7 +93,14 @@ class Shivang:
 
 </div>
 
+## 📄 Need the formal details?
 
+<div align="center">
+  <a href="https://buildwithshivang.site/resume.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-Download%20PDF-brightgreen?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume">
+  </a>
+  <p><i>All the boring but important stuff</i></p>
+</div>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500">
