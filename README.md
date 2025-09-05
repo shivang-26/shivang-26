@@ -1,4 +1,4 @@
-````markdown
+
 # <div align="center">👋 Hi, I'm Shivang</div>
 
 <div align="center">
@@ -10,7 +10,7 @@
 </div>
 
 ---
-
+````markdown
 ## About Me
 
 ```python
@@ -37,7 +37,7 @@ class Shivang:
 
 > *"Curiosity drives me to build things that solve real-world problems with AI."*
 
----
+
 
 ## My Arsenal
 
@@ -77,7 +77,7 @@ class Shivang:
 
 </div>
 
----
+
 
 ## Let's Connect
 
@@ -89,7 +89,7 @@ class Shivang:
 
 </div>
 
----
+
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500">
