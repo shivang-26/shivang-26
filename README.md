@@ -2,7 +2,7 @@
 # <div align="center">👋 Hi, I'm Shivang</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&random=false&width=650&lines=AI+%26+ML+Developer;Building+intelligent+systems+one+step+at+a+time;Exploring+Deep+Learning,+RL+%26+GenAI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&random=false&width=650&lines=AI%2FML%20Developer%3B%20Building%20Intelligent%20Systems%3B%20Exploring%20DL%2C%20RL%20%26%20GenAI" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -12,7 +12,7 @@
 
 
 ## About Me
-```markdown
+````markdown
 
 
 class Shivang:
