@@ -6,7 +6,7 @@
 </div>
 
 <div align="center">
-  <img src="https://64.media.tumblr.com/ba0569e5e5f7aef3a3bc5a3cfa34d540/tumblr_pujjftX9Vn1y0nwq1o1_500.gif" width="600" alt="coding-room-gif">
+  <img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" width="600" alt="coding-room-gif">
 </div>
 
 
