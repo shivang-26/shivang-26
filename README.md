@@ -12,8 +12,8 @@
 
 
 ## About Me
+```markdown
 
-```
 
 class Shivang:
     def __init__(self):
@@ -98,5 +98,5 @@ class Shivang:
 **Thanks for stopping by! Hope you find something useful here.**
 
 </div>
-```
+
 
