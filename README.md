@@ -1,88 +1,101 @@
-Perfect 🔥 I’ll plug in your details. Here’s your **ready-to-use `README.md`**:
-
 ````markdown
-<h1 align="center">👋 Hi, I'm Shivang</h1>
-<h3 align="center">🚀 Full Stack Developer | AI & ML Explorer | Problem Solver</h3>
+# <div align="center">👋 Hi, I'm Shivang</div>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300">
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&random=false&width=650&lines=AI+%26+ML+Developer;Building+intelligent+systems+one+step+at+a+time;Exploring+Deep+Learning,+RL+%26+GenAI" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+</div>
 
 ---
 
-## 🧑‍💻 About Me  
+## About Me
+
 ```python
 class Shivang:
     def __init__(self):
+        self.username = "Shivang-26"
         self.name = "Shivang"
-        self.role = "Full Stack Developer | AI Enthusiast"
-        self.current_focus = "Reinforcement Learning, GANs & Transformers"
-        self.hobbies = ["Coding", "Research", "Building AI Systems"]
+        self.role = "AI/ML Developer & Explorer"
+        self.location = "India"
+        self.website = "https://buildwithshivang.site"
+        self.learning_philosophy = "Keep building, keep improving"
+        
+    def current_focus(self):
+        return [
+            "Deep Learning & Transformers",
+            "Reinforcement Learning for real-world applications",
+            "Generative AI & LLMs",
+            "AI-driven Cargo Management Systems"
+        ]
     
-    def say_hi(self):
-        print("Thanks for visiting my GitHub! 🚀")
+    def fun_fact(self):
+        return "I turn bugs into features more often than not 🚀"
 ````
 
-> *"I love creating systems that combine intelligence with practicality – from cargo optimization to AI-powered apps."*
+> *"Curiosity drives me to build things that solve real-world problems with AI."*
 
 ---
 
-## ⚡ Tech Arsenal
+## My Arsenal
 
-**Languages**
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square\&logo=cplusplus\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
+<div align="center">
 
-**Frameworks & Libraries**
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square\&logo=tensorflow\&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square\&logo=pytorch\&logoColor=white)
-![React](https://img.shields.io/badge/-React-20232A?style=flat-square\&logo=react\&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square\&logo=node-dot-js\&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square\&logo=tailwindcss\&logoColor=white)
+### Languages
 
-**Databases & Tools**
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square\&logo=firebase\&logoColor=black)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square\&logo=visual-studio-code\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
 
----
+### Libraries & Frameworks
 
-## 📊 GitHub Stats
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch\&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shivang-26&show_icons=true&theme=tokyonight" alt="stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivang-26&layout=compact&theme=tokyonight" alt="langs" height="160"/>
-</p>
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge\&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge\&logo=opencv\&logoColor=white)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-FF1493?style=for-the-badge\&logo=openai\&logoColor=white)
+![SpaCy](https://img.shields.io/badge/SpaCy-09A3D5?style=for-the-badge\&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-FFB703?style=for-the-badge\&logoColor=black)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shivang-26&theme=tokyonight" alt="streak" height="160"/>
-</p>
+### Tools I Use Daily
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Shivang-26&theme=tokyonight&margin-w=10&margin-h=10&column=7" alt="trophies" />
-</p>
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge\&logo=jupyter\&logoColor=white)
+![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge\&logo=googlecolab\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
 
----
+### Backend / DB
 
-## 🚀 Featured Projects
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black)
 
-* [🧠 Cargo Management with RL](https://github.com/Shivang-26/cargo-rl) – Optimizing cargo placement using Deep Q-Networks.
-* [📸 Image Captioning with Transformers](https://github.com/Shivang-26/image-captioning-transformer) – AI that describes images with natural language.
-* [🎨 Urban Streetwear Store](https://github.com/Shivang-26/streetwear-store) – Shopify-based T-shirt store with Tailwind & modern UI.
+</div>
 
 ---
 
-## 🤝 Connect with Me
+## Let's Connect
 
-<p align="center">
-  <a href="mailto:vats.jshivang@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/shivang-133a982b9"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://buildwithshivang.site"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>
-</p>
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-vats.jshivang@gmail.com-red?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:vats.jshivang@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/shivang-133a982b9)
+[![Portfolio](https://img.shields.io/badge/Portfolio-BuildWithShivang.site-ff9800?style=for-the-badge\&logo=firefox\&logoColor=white)](https://buildwithshivang.site)
+
+</div>
 
 ---
 
-<p align="center">⭐ Thanks for stopping by! Keep building & exploring 🚀</p>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500">
+
+**Thanks for stopping by! Hope you find something useful here.**
+
+</div>
 ```
+
