@@ -12,7 +12,7 @@
 
 
 ## About Me
-```
+
 ````markdown
 
 
@@ -38,7 +38,7 @@ class Shivang:
 
 
 ````
-```
+
 > *"Curiosity drives me to build things that solve real-world problems with AI."*
 
 
