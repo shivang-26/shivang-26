@@ -13,7 +13,7 @@
 
 ## About Me
 
-````markdown
+```python
 
 
 class Shivang:
@@ -37,7 +37,7 @@ class Shivang:
         return "I turn bugs into features more often than not 🚀"
 
 
-````
+```
 
 > *"Curiosity drives me to build things that solve real-world problems with AI."*
 
