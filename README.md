@@ -6,7 +6,7 @@
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+  <img src="https://64.media.tumblr.com/ba0569e5e5f7aef3a3bc5a3cfa34d540/tumblr_pujjftX9Vn1y0nwq1o1_500.gif" width="600" alt="coding-room-gif">
 </div>
 
 
