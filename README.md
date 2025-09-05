@@ -20,21 +20,22 @@ class Shivang:
     def __init__(self):
         self.username = "Shivang-26"
         self.name = "Shivang"
-        self.role = "AI/ML Developer & Explorer"
+        self.role = "AI/ML Engineer & Full Stack Developer"
         self.location = "India"
         self.website = "https://buildwithshivang.site"
-        self.learning_philosophy = "Keep building, keep improving"
+        self.learning_philosophy = "Breaking things until they finally work 🔧🔥"
         
     def current_focus(self):
         return [
-            "Deep Learning & Transformers",
-            "Reinforcement Learning for real-world applications",
-            "Generative AI & LLMs",
-            "AI-driven Cargo Management Systems"
+            "Scaling AI/ML solutions for real-world impact",
+            "Full Stack Development with AI integration",
+            "Generative AI & LLM Applications",
+            "AI-powered Automation & Optimization"
         ]
     
     def fun_fact(self):
-        return "I turn bugs into features more often than not 🚀"
+        return "I debug for sport and code for survival 🕵️‍♂️"
+
 
 
 ```
