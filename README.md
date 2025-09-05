@@ -6,7 +6,7 @@
 </div>
 
 <div align="center">
-  <img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" width="600" alt="coding-room-gif">
+  <img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" width="800" alt="coding-room-gif">
 </div>
 
 
